@@ -27,3 +27,7 @@ python3 -m sqlalchemy_sample.app
 ```
 
 References: https://docs.sqlalchemy.org/en/20/tutorial/
+
+#### Durable functions with Python
+
+https://learn.microsoft.com/en-us/azure/azure-functions/durable/quickstart-python-vscode?tabs=macos%2Cazure-cli-set-indexing-flag&pivots=python-mode-decorators
